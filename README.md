@@ -4,6 +4,5 @@ An Android application that allows the user to make basic addition, subtraction,
 
 # What I Learned
 
-* 
-* 
-* 
+* The substring function
+* Exception handeling
